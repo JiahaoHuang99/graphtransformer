@@ -3,6 +3,7 @@
 **/*.ipynb_checkpoints/
 **/__pycache__
 out/
+.idea
 
 gmail.py
 
@@ -16,4 +17,5 @@ data/molecules/*.zip
 data/molecules/zinc-full/*.pkl
 
 dataset/
+
 
